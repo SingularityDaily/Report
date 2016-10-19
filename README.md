@@ -3,7 +3,7 @@ Report
 
 关于奇点日报产品的bug，意见，需求，请统一提交到该项目 issues。
 
-所有的 report 请看：https://github.com/SingularityDaily/Report/labels/SDv2
+所有的 report 请看：https://github.com/SingularityDaily/Report/issues
 
 Bug 提交格式
 ------
